@@ -17,7 +17,7 @@ const poppins = Poppins({
 })
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://mansmanual.com'),
+  metadataBase: new URL('https://mansmanualapp.com'),
   title: {
     default: "Man's Manual - Build Discipline. Strengthen Faith. Transform Your Life.",
     template: "%s | Man's Manual"
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://mansmanual.com',
+    url: 'https://mansmanualapp.com',
     siteName: "Man's Manual",
     title: "Man's Manual - Build Discipline. Strengthen Faith. Transform Your Life.",
     description: "The ultimate accountability platform for men seeking growth in Faith, Fitness, and Focus.",

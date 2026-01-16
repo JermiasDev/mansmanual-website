@@ -91,7 +91,7 @@ export default function Terms() {
               Managing Subscriptions
             </h3>
             <p className="text-gray-700 dark:text-gray-300 mb-4">
-              You can manage and cancel your subscription through your iPhone Settings > [Your Name] > Subscriptions. Subscriptions are managed by Apple through the App Store.
+              You can manage and cancel your subscription through your iPhone Settings &gt; [Your Name] &gt; Subscriptions. Subscriptions are managed by Apple through the App Store.
             </p>
 
             <h3 className="font-display font-semibold text-xl text-gray-900 dark:text-white mb-3 mt-6">

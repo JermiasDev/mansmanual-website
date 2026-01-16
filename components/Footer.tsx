@@ -83,10 +83,10 @@ export default function Footer() {
           <p className="text-gray-600 dark:text-gray-400 text-sm">
             Contact:{' '}
             <a
-              href="mailto:mansmanualapp@gmail.com"
+              href="mailto:Messenger@mansmanualapp.com"
               className="hover:text-primary dark:hover:text-accent transition-colors duration-200"
             >
-              mansmanualapp@gmail.com
+              Messenger@mansmanualapp.com
             </a>
           </p>
         </div>

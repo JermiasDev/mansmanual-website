@@ -177,10 +177,10 @@ export default function About() {
                   <p className="text-gray-600 dark:text-gray-400">
                     Email:{' '}
                     <a
-                      href="mailto:mansmanualapp@gmail.com"
+                      href="mailto:Messenger@mansmanualapp.com"
                       className="text-primary dark:text-accent hover:underline"
                     >
-                      mansmanualapp@gmail.com
+                      Messenger@mansmanualapp.com
                     </a>
                   </p>
                   <p className="text-gray-600 dark:text-gray-400">

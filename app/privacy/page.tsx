@@ -180,7 +180,7 @@ export default function Privacy() {
               <li><strong>Withdraw Consent:</strong> Withdraw consent at any time (where processing is based on consent)</li>
             </ul>
             <p className="text-gray-700 dark:text-gray-300 mb-4">
-              To exercise these rights, please contact us at <a href="mailto:mansmanualapp@gmail.com" className="text-primary dark:text-accent hover:underline">mansmanualapp@gmail.com</a>. You can also delete your data directly within the App by deleting the App from your device.
+              To exercise these rights, please contact us at <a href="mailto:Messenger@mansmanualapp.com" className="text-primary dark:text-accent hover:underline">Messenger@mansmanualapp.com</a>. You can also delete your data directly within the App by deleting the App from your device.
             </p>
           </section>
 
@@ -219,7 +219,7 @@ export default function Privacy() {
               Children's Privacy
             </h2>
             <p className="text-gray-700 dark:text-gray-300 mb-4">
-              The App is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us immediately at <a href="mailto:mansmanualapp@gmail.com" className="text-primary dark:text-accent hover:underline">mansmanualapp@gmail.com</a>, and we will take steps to delete such information.
+              The App is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us immediately at <a href="mailto:Messenger@mansmanualapp.com" className="text-primary dark:text-accent hover:underline">Messenger@mansmanualapp.com</a>, and we will take steps to delete such information.
             </p>
           </section>
 
@@ -262,7 +262,7 @@ export default function Privacy() {
                 <strong>Man's Manual LLC</strong>
               </p>
               <p className="text-gray-700 dark:text-gray-300 mb-2">
-                Email: <a href="mailto:mansmanualapp@gmail.com" className="text-primary dark:text-accent hover:underline">mansmanualapp@gmail.com</a>
+                Email: <a href="mailto:Messenger@mansmanualapp.com" className="text-primary dark:text-accent hover:underline">Messenger@mansmanualapp.com</a>
               </p>
               <p className="text-gray-700 dark:text-gray-300">
                 Website: <a href="https://mansmanual.com" className="text-primary dark:text-accent hover:underline">https://mansmanual.com</a>

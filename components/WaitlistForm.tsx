@@ -207,7 +207,7 @@ export default function WaitlistForm() {
 
         {status === 'error' && (
           <div className="p-4 bg-red-50 border border-red-200 rounded-lg text-red-800 text-sm">
-            Oops! Something went wrong. Please try again or email us at mansmanualapp@gmail.com
+            Oops! Something went wrong. Please try again or email us at Messenger@mansmanualapp.com
           </div>
         )}
 

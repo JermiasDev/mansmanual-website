@@ -126,7 +126,7 @@ export default function ContactForm() {
 
         {status === 'error' && (
           <div className="p-4 bg-red-50 dark:bg-red-900/20 border border-red-200 dark:border-red-800 rounded-lg text-red-800 dark:text-red-200">
-            Oops! Something went wrong. Please try again or email us directly at mansmanualapp@gmail.com
+            Oops! Something went wrong. Please try again or email us directly at Messenger@mansmanualapp.com
           </div>
         )}
 
@@ -141,10 +141,10 @@ export default function ContactForm() {
         <p className="text-sm text-gray-600 dark:text-gray-400 text-center">
           Or email us directly at{' '}
           <a
-            href="mailto:mansmanualapp@gmail.com"
+            href="mailto:Messenger@mansmanualapp.com"
             className="text-primary dark:text-accent hover:underline"
           >
-            mansmanualapp@gmail.com
+            Messenger@mansmanualapp.com
           </a>
         </p>
       </form>

@@ -333,7 +333,7 @@ export default function Terms() {
                 <strong>Man's Manual LLC</strong>
               </p>
               <p className="text-gray-700 dark:text-gray-300 mb-2">
-                Email: <a href="mailto:mansmanualapp@gmail.com" className="text-primary dark:text-accent hover:underline">mansmanualapp@gmail.com</a>
+                Email: <a href="mailto:Messenger@mansmanualapp.com" className="text-primary dark:text-accent hover:underline">Messenger@mansmanualapp.com</a>
               </p>
               <p className="text-gray-700 dark:text-gray-300">
                 Website: <a href="https://mansmanual.com" className="text-primary dark:text-accent hover:underline">https://mansmanual.com</a>

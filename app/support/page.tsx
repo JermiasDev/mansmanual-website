@@ -201,10 +201,10 @@ export default function Support() {
                 Get help via email
               </p>
               <a
-                href="mailto:mansmanualapp@gmail.com"
+                href="mailto:Messenger@mansmanualapp.com"
                 className="text-primary dark:text-accent hover:underline font-medium"
               >
-                mansmanualapp@gmail.com
+                Messenger@mansmanualapp.com
               </a>
             </div>
 

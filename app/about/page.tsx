@@ -4,7 +4,7 @@ import DownloadButton from '@/components/DownloadButton'
 
 export const metadata: Metadata = {
   title: 'About',
-  description: 'Learn about Man\'s Manual LLC and our mission to help men grow in faith, fitness, and focus through disciplined accountability.',
+  description: 'Learn about Man\'s Manual LLC and our mission to help believers grow in faith, fitness, and focus through disciplined accountability.',
 }
 
 export default function About() {
@@ -16,7 +16,7 @@ export default function About() {
         </svg>
       ),
       title: 'Faith',
-      description: 'We believe spiritual growth is the foundation of a purposeful life. Our tools help men strengthen their relationship with God through scripture study, prayer, and reflection.',
+      description: 'We believe spiritual growth is the foundation of a purposeful life. Our tools help you strengthen your relationship with God through scripture study, prayer, and reflection.',
     },
     {
       icon: (
@@ -25,7 +25,7 @@ export default function About() {
         </svg>
       ),
       title: 'Fitness',
-      description: 'Physical discipline builds mental strength. We provide the tools to help men take care of their bodies as temples, building consistency through structured workout planning and tracking.',
+      description: 'Physical discipline builds mental strength. We provide the tools to help you take care of your body as a temple, building consistency through structured workout planning and tracking.',
     },
     {
       icon: (
@@ -34,7 +34,7 @@ export default function About() {
         </svg>
       ),
       title: 'Focus',
-      description: 'Intentional living requires mental clarity and organization. We help men build productive habits, set meaningful goals, and maintain focus on what truly matters.',
+      description: 'Intentional living requires mental clarity and organization. We help you build productive habits, set meaningful goals, and maintain focus on what truly matters.',
     },
   ]
 
@@ -63,10 +63,10 @@ export default function About() {
                 Our Mission
               </h2>
               <p className="text-lg text-gray-700 dark:text-gray-300 mb-4">
-                We exist to empower men to live with greater purpose, discipline, and spiritual depth. Too often, men struggle with consistency, lack clear direction, or feel disconnected from their faith. We built Man's Manual to solve that.
+                We exist to empower believers to live with greater purpose, discipline, and spiritual depth. Too often, believers struggle with consistency, lack clear direction, or feel disconnected from their faith. We built Man's Manual to solve that.
               </p>
               <p className="text-lg text-gray-700 dark:text-gray-300 mb-4">
-                Our platform combines timeless biblical wisdom with modern technology to create a comprehensive accountability system. We believe that when men strengthen their walk with God, take care of their bodies, and organize their lives with intention, they become better husbands, fathers, leaders, and disciples.
+                Our platform combines timeless biblical wisdom with modern technology to create a comprehensive accountability system. We believe that when believers strengthen their walk with God, take care of their bodies, and organize their lives with intention, they become better spouses, parents, leaders, and disciples.
               </p>
               <p className="text-lg text-gray-700 dark:text-gray-300">
                 Man's Manual isn't about perfection—it's about progress. It's about showing up every day, building streaks, and becoming 1% better through consistent action.
@@ -119,16 +119,16 @@ export default function About() {
           </h2>
           <div className="prose prose-lg dark:prose-invert max-w-none">
             <p className="text-lg text-gray-700 dark:text-gray-300 mb-4">
-              Man's Manual was born from a simple observation: many men want to grow but lack the right tools to build sustainable habits. We saw men striving to read their Bibles more consistently, wanting to get in shape, trying to be more productive—but struggling to maintain momentum.
+              Man's Manual was born from a simple observation: many believers want to grow but lack the right tools to build sustainable habits. We saw people striving to read their Bibles more consistently, wanting to get in shape, trying to be more productive—but struggling to maintain momentum.
             </p>
             <p className="text-lg text-gray-700 dark:text-gray-300 mb-4">
-              Traditional productivity apps were too secular. Faith apps lacked accountability features. Fitness apps ignored spiritual growth. We realized there wasn't a single platform that addressed the whole man—spirit, body, and mind.
+              Traditional productivity apps were too secular. Faith apps lacked accountability features. Fitness apps ignored spiritual growth. We realized there wasn't a single platform that addressed the whole person—spirit, body, and mind.
             </p>
             <p className="text-lg text-gray-700 dark:text-gray-300 mb-4">
-              So we built it. Man's Manual combines powerful habit tracking with deep Bible study tools, prayer journaling, fitness planning, and AI assistance—all designed specifically for men who want to live with purpose.
+              So we built it. Man's Manual combines powerful habit tracking with deep Bible study tools, prayer journaling, fitness planning, and AI assistance—all designed for believers who want to live with purpose.
             </p>
             <p className="text-lg text-gray-700 dark:text-gray-300 mb-4">
-              We're a small team driven by a big vision: to see men transformed by the daily discipline of showing up, staying consistent, and pursuing growth in every area of life. We believe that faith without action is incomplete, and that small daily wins compound into life-changing transformation.
+              We're a small team driven by a big vision: to see believers transformed by the daily discipline of showing up, staying consistent, and pursuing growth in every area of life. We believe that faith without action is incomplete, and that small daily wins compound into life-changing transformation.
             </p>
             <p className="text-lg text-gray-700 dark:text-gray-300">
               This is just the beginning. We're constantly improving, adding features, and listening to our community. Thank you for being part of this journey.

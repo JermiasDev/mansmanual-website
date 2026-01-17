@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     default: "Man's Manual - Build Discipline. Strengthen Faith. Transform Your Life.",
     template: "%s | Man's Manual"
   },
-  description: "Man's Manual is the ultimate accountability platform for men seeking growth in Faith, Fitness, and Focus. Track habits, study scripture, plan workouts, and achieve your goals with AI-powered guidance.",
+  description: "Man's Manual is the ultimate accountability platform for mankind seeking growth in Faith, Fitness, and Focus. Track habits, study scripture, plan workouts, and achieve your goals with AI-powered guidance.",
   keywords: [
     "men's personal development app",
     "faith-based productivity",
@@ -57,7 +57,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: "Man's Manual - Build Discipline. Strengthen Faith. Transform Your Life.",
-    description: "The ultimate accountability platform for men seeking growth in Faith, Fitness, and Focus.",
+    description: "The ultimate accountability platform for mankind who seeks to growth in Faith, Fitness, and Focus.",
     images: ['/og-image.png'], // TODO: Add your Twitter card image
     creator: '@mansmanualapp', // TODO: Update with your Twitter handle
   },

@@ -216,7 +216,7 @@ export default function Home() {
             Start Your Journey Today
           </h2>
           <p className="text-xl mb-8 max-w-2xl mx-auto opacity-90">
-            Join thousands of men who are transforming their lives through discipline, faith, and focus.
+            Join thousands who are transforming their lives through discipline, faith, and focus.
           </p>
           <DownloadButton variant="light" onClick={() => setIsWaitlistOpen(true)} />
           <p className="mt-6 text-sm opacity-75">

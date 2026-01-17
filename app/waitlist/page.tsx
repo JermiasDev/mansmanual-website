@@ -88,7 +88,7 @@ export default function Waitlist() {
             </h1>
 
             <p className="text-xl text-gray-600 mb-4">
-              Be among the first 1,000 men to experience Man's Manual and lock in <strong className="text-primary">50% off for life</strong>.
+              Be among the first 1,000 believers to experience Man's Manual and lock in <strong className="text-primary">50% off for life</strong>.
             </p>
 
             <div className="inline-flex flex-col sm:flex-row items-center gap-4 bg-white p-6 rounded-2xl shadow-lg mb-8">
@@ -161,7 +161,7 @@ export default function Waitlist() {
               Earn Free Months by Referring Friends
             </h2>
             <p className="text-lg text-gray-600">
-              Share Man's Manual with other men who want to grow. The more friends you invite, the more you earn.
+              Share Man's Manual with other believers who want to grow. The more friends you invite, the more you earn.
             </p>
           </div>
 
